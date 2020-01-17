@@ -1,0 +1,13 @@
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\bin\Debug\MyBot.exe.config
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\bin\Debug\MyBot.exe
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\bin\Debug\MyBot.pdb
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\bin\Debug\Newtonsoft.Json.dll
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\bin\Debug\Telegram.Bot.dll
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\bin\Debug\Newtonsoft.Json.xml
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\bin\Debug\Telegram.Bot.xml
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\obj\Debug\MyBot.csprojAssemblyReference.cache
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\obj\Debug\MyBot.csproj.CoreCompileInputs.cache
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\obj\Debug\MyBot.csproj.CopyComplete
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\obj\Debug\MyBot.exe
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\obj\Debug\MyBot.pdb
+D:\.NET_Mogilev_Traning\Bot\MyBot\MyBot\bin\Debug\ApiAiSDK.dll
